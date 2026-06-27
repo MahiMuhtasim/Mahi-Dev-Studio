@@ -13,7 +13,7 @@
 ## 🚀 দ্রুত শুরু করুন
 
 ### অনলাইনে ব্যবহার করুন:
-👉 **[Mahi Dev Studio খুলুন](https://mahimuhtasim.github.io/Mahi-Dev-Studio)**
+👉 **[Mahi Dev Studio খুলুন](https://mahimuhtasim.github.io/mahidevstudio.Anomah)**
 
 কোন ইনস্টলেশন বা সেটআপের প্রয়োজন নেই। শুধু লিঙ্কে ক্লিক করুন এবং শুরু করুন!
 
